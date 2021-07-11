@@ -1,3 +1,3 @@
 # TutorialJPA
 
-<img src= "https://www.hebergementwebs.com/image/9a/9a87a801de3b4c86ce523c04455dadb9.webp/slf4j---guia-rapidaslf4j-guia-rapida-0.webp" />
+<img src= "https://www.hebergementwebs.com/image/80/805b27332c5794b5e03ef26ab9f2ab46.webp/slf4j-frente-a-log4jslf4j-frente-a-log4j-0.webp" />
